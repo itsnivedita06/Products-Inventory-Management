@@ -1,0 +1,14 @@
+.modal{
+    display: flex;
+    align-items: center;       
+    justify-content: center;
+    flex-direction: column;
+    margin: auto;
+    background-color: pink;
+    width: 30%;
+    height: 200px;
+    margin-top: 6%;
+    border-radius: 5px;
+     
+}
+
